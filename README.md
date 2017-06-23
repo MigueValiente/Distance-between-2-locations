@@ -32,9 +32,15 @@ Just run the program and you will be prompted the name of the locations you want
 
 ## Requirements
 - Requests: HTTP for Humans [Website](http://python-requests.org/) [Github](https://github.com/requests/requests)
+
 ## Credits
 - [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start) for providing the data needed for this program to run.
+
 ## References
 - [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula), the program uses this formula to calculate the distance (in metres, then converted if necessary) from location coordinates.
+
+## Contributing
+Just open a pull request.
+
 ## License
 Licensed under [MIT](https://github.com/mrluissan/Distance-between-2-locations/blob/master/LICENSE).
